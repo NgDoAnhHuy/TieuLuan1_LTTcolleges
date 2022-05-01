@@ -20,7 +20,7 @@ int main() {
 void nhap(int& n) {
 	do
 	{
-		cout << "Nhap gia tri duong x, y: ";
+		cout << "Nhap gia tri duong n: ";
 		cin >> n;
 	} while (n <= 0 && cout << "Vui long nhap gia tri duong " << endl);
 }
