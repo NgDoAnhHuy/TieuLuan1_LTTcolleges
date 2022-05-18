@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+//Anh Huy
 void nhap(int& n);
 void BoiCua3(int n);
 void xuathaidong(int n);
